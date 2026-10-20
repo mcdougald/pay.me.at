@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="302" viewBox="0 0 880 302" role="img" aria-label="pay.me.at at a glance: Keys that verify offline, Your Stripe, your money, Verified, idempotent, A catalog that can't drift">
+<rect x="0.5" y="0.5" width="879" height="301" rx="12" fill="#0a0a0a" stroke="#262626"/>
+<rect x="24" y="24" width="196" height="254" rx="10" fill="#171717" stroke="#262626"/>
+<text x="44" y="60" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#525252">01</text>
+<line x1="72" y1="56" x2="200" y2="56" stroke="#404040" stroke-width="1"/>
+<text x="44" y="98" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#fafafa" font-weight="600"><tspan x="44" dy="0">Keys that</tspan><tspan x="44" dy="22">verify offline</tspan></text>
+<text x="44" y="148" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#a3a3a3"><tspan x="44" dy="0">Licences are signed</tspan><tspan x="44" dy="21">and checked against a</tspan><tspan x="44" dy="21">published key set,</tspan><tspan x="44" dy="21">with no network call</tspan><tspan x="44" dy="21">and a grace period.</tspan></text>
+<rect x="236" y="24" width="196" height="254" rx="10" fill="#171717" stroke="#262626"/>
+<text x="256" y="60" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#525252">02</text>
+<line x1="284" y1="56" x2="412" y2="56" stroke="#404040" stroke-width="1"/>
+<text x="256" y="98" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#fafafa" font-weight="600"><tspan x="256" dy="0">Your Stripe,</tspan><tspan x="256" dy="22">your money</tspan></text>
+<text x="256" y="148" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#a3a3a3"><tspan x="256" dy="0">Bring your own Stripe</tspan><tspan x="256" dy="21">account. Money goes</tspan><tspan x="256" dy="21">straight to the</tspan><tspan x="256" dy="21">seller, and no card</tspan><tspan x="256" dy="21">data touches this</tspan><tspan x="256" dy="21">service.</tspan></text>
+<rect x="448" y="24" width="196" height="254" rx="10" fill="#171717" stroke="#262626"/>
+<text x="468" y="60" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#525252">03</text>
+<line x1="496" y1="56" x2="624" y2="56" stroke="#404040" stroke-width="1"/>
+<text x="468" y="98" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#fafafa" font-weight="600"><tspan x="468" dy="0">Verified,</tspan><tspan x="468" dy="22">idempotent</tspan></text>
+<text x="468" y="148" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#a3a3a3"><tspan x="468" dy="0">Licences come only</tspan><tspan x="468" dy="21">from a verified</tspan><tspan x="468" dy="21">webhook, deduplicated</tspan><tspan x="468" dy="21">on the event id and</tspan><tspan x="468" dy="21">on the purchase.</tspan></text>
+<rect x="660" y="24" width="196" height="254" rx="10" fill="#171717" stroke="#262626"/>
+<text x="680" y="60" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#525252">04</text>
+<line x1="708" y1="56" x2="836" y2="56" stroke="#404040" stroke-width="1"/>
+<text x="680" y="98" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#fafafa" font-weight="600"><tspan x="680" dy="0">A catalog that</tspan><tspan x="680" dy="22">can't drift</tspan></text>
+<text x="680" y="148" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#a3a3a3"><tspan x="680" dy="0">Plans are generated</tspan><tspan x="680" dy="21">from each product's</tspan><tspan x="680" dy="21">own manifest, so</tspan><tspan x="680" dy="21">checkout cannot sell</tspan><tspan x="680" dy="21">a plan it does not</tspan><tspan x="680" dy="21">declare.</tspan></text>
+</svg>
